@@ -1,0 +1,23 @@
+---+!! %URLPARAM{"topic"}%
+
+*Serving Size:* %URLPARAM{"servings"}%
+
+*Preparation Time:* %URLPARAM{"time"}%
+
+*Description:* %URLPARAM{"description"}%
+
+*Difficulty Level:* %URLPARAM{"level"}%
+
+*Recipe Category:* %URLPARAM{"category"}%
+
+*Recipe Type:* %URLPARAM{"type"}%
+
+%TOC%
+
+---+++ *Ingredients* __(include specific measurements of each ingredient if necessary)__ 
+%URLPARAM{"ingredients"}%
+
+---+++ *Directions* 
+%URLPARAM{"directions"}%
+
+%COMMENT{type="bottom"}%
